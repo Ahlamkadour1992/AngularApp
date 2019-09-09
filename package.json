@@ -2,6 +2,7 @@
   "name": "ng5",
   "version": "0.0.0",
   "scripts": {
+     "deploy": "ng b --prod --base-href https://ahlamkadour1992.github.io/AngularApp/ && ngh --dir=dist/ng5" ,
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
