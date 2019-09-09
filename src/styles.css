@@ -1,0 +1,44 @@
+ body {
+    /* background-image: url('./assets/flower.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: beige;
+    /* background: linear-gradient(to bottom, white, rgb(90, 84, 84), white, rgb(90, 84, 84), white); */
+    padding: 3em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+ul {
+    list-style-type: none;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+ul li {
+    display: inline;
+    margin-right: 30px;
+}
+ul li a {
+    font-size: 1.5em;
+}
+a {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-decoration: none;
+}
+form {
+    color: black;
+    font-size: bold;
+    font-size: 40px;
+    font-family: Bad Script;
+}
+input {
+    width: 20%;
+    height: 35px;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: bold;
+text-decoration-line: underline;
+}
